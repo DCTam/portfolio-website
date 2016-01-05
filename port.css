@@ -1,0 +1,43 @@
+.topNavRight{
+	padding: 0px 15px 0px 15px;
+}
+
+.well{
+	background-color: rgba(245, 245, 245, 0.4);
+}
+#footerNav{
+	margin:0px;
+	border-radius: 0px;
+}
+#topNav{
+	margin: 0px;
+}
+
+#jumbotron1{
+	background-image: url(http://www.pulsarmedia.eu/data/media/3/Clean%20Windows%208%20Pulsarmedia%20Wallpaper.jpg);
+	background-attachment: fixed;
+	min-height:500px;
+	margin-bottom:0px;
+	border-radius: 0px;
+
+}
+#jumbotron2{
+	background-image: url(http://p1.pichost.me/i/9/1323026.jpg);
+	min-height: 550px;
+	background-attachment: fixed;
+	margin-bottom: 0px;
+	border-radius: 0px;
+	
+}
+#jumbotron3{
+	background-image: url(http://desktop-background.net/wallpapers/nature-clean-sky-wallpaper-40700.jpg);
+	min-height: 1000px;
+	background-attachment: fixed;
+	margin-bottom: 0px;
+	border-radius: 0px;
+}
+
+#dariusPic{
+	border-radius:50%;
+	height: 350px;
+}
